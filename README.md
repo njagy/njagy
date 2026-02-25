@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @njagy
-- 👀 I’m interested in pyhton and php, mysql and javascript ...
-- 🌱 I’m currently learning python...
-- 💞️ I’m looking to collaborate on new projects ...
-- 📫 How to reach me joram.pecyl@gmail.com ...
+I’m a Solution Architect–in-training with hands-on experience in enterprise systems integration, 
+banking platforms, and solution design. 
+I specialize in translating business requirements and regulatory constraints into scalable, secure, and maintainable system architectures.
 
-<!---
-njagy/njagy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My work sits at the intersection of business, architecture, and engineering, with a strong emphasis 
+on SOA-based integration, API-led connectivity, and event-driven workflows.
